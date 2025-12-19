@@ -1,0 +1,5 @@
+{
+  "name": "Copy of AI Resume Matcher & Optimizer",
+  "description": "A high-performance tool using Gemini AI to analyze the compatibility between resumes and job descriptions, providing match percentages, skill gap analysis, and optimization tips.",
+  "requestFramePermissions": []
+}
